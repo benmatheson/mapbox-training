@@ -7,7 +7,10 @@
 [HTML Boilerplate](https://html5boilerplate.com/) a starter template for basic HTML and Javascript Projects
 
 
-## Mapbox Documentation
+## Mapbox Documentation and Tools
+
+[Mapbox Studio](https://studio.mapbox.com) Onilne style editor
+
 
 [Mapbox Examples](https://docs.mapbox.com/mapbox-gl-js/example/) Mapbox code examples
 
