@@ -12,10 +12,14 @@
 
 [Mapbox Studio](https://studio.mapbox.com) Onilne style editor
 
-
 [Mapbox Examples](https://docs.mapbox.com/mapbox-gl-js/example/) Mapbox code examples
 
 [Mapbox Documentation](https://docs.mapbox.com/mapbox-gl-js/api/) Mapbox documenation of methods, etc.
+
+[Mapbox Styles Endpoints](https://docs.mapbox.com/api/maps/styles/) Quick links to base styles
+
+[Mapbox Styles Gallery](https://www.mapbox.com/gallery) Styles Inspiration - can fork into custom style
+
 
 
 ## Tools 
