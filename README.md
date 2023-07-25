@@ -21,8 +21,12 @@
 [Mapbox Styles Gallery](https://www.mapbox.com/gallery) Styles Inspiration - can fork into custom style
 
 
-## Exercise #1 
-[Simple Map Demo ](https://docs.mapbox.com/mapbox-gl-js/example/simple-map/) simple map demo for exercise #1
+## Exercises
+
+[Simple Map Demo](https://docs.mapbox.com/mapbox-gl-js/example/simple-map/) simple map demo for creating a map
+
+[Marker](https://docs.mapbox.com/mapbox-gl-js/example/add-a-marker/) first marker
+
 
 
 
