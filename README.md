@@ -21,6 +21,11 @@
 [Mapbox Styles Gallery](https://www.mapbox.com/gallery) Styles Inspiration - can fork into custom style
 
 
+## Exercise #1 
+[Simple Map Demo ](https://docs.mapbox.com/mapbox-gl-js/example/simple-map/) simple map demo for exercise #1
+
+
+
 
 ## Tools 
 
