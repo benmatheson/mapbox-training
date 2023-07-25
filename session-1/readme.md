@@ -1,4 +1,6 @@
-1.Create HTML Page
+# Basic Steps for Creating a simple map
+
+1. Create HTML Page
 2. Import mapbox-GL library
 3. Import Mapbox CSS
 4. Create a <div> for the map
