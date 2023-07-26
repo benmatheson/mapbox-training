@@ -10,7 +10,9 @@
 
 ## Mapbox Documentation and Tools
 
-[Mapbox Studio](https://studio.mapbox.com) Onilne style editor
+[Mapbox Installation](https://docs.mapbox.com/mapbox-gl-js/guides/install/) Installation guide
+
+[Mapbox Studio](https://studio.mapbox.com) Online style editor
 
 [Mapbox Examples](https://docs.mapbox.com/mapbox-gl-js/example/) Mapbox code examples
 
