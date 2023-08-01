@@ -25,13 +25,25 @@
 
 ## Exercises
 
+### Session 1 Exercises
+
 [Simple Map Demo](https://docs.mapbox.com/mapbox-gl-js/example/simple-map/) simple map demo for creating a map
 
 [Marker](https://docs.mapbox.com/mapbox-gl-js/example/add-a-marker/) first marker
 
+### Session 2 Exercises
+
+[Starter Map for Github Deployment](https://codepen.io/benmatheson/pen/ExOdmMg) exampl starter map for github deployment
+
+[Starter Map for Mouse Events](https://codepen.io/benmatheson/pen/zYMeONm) starter map for mouse events. Use this to build events.
+
 [Add Geojson to map](https://docs.mapbox.com/mapbox-gl-js/example/geojson-polygon/) add geojson to map as data source.
 
-[Popup on mouse click](https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/) display a popup on mouse click
+[Popup on mouse click](https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/) display a popup on mouse click 
+
+[Popup on mouse hover](https://docs.mapbox.com/mapbox-gl-js/example/popup-on-hover/) display a popup on mouse hover
+
+
 
 
 
