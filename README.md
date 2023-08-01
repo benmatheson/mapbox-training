@@ -33,7 +33,9 @@
 
 ### Session 2 Exercises
 
-[Starter Map for Github Deployment](https://codepen.io/benmatheson/pen/ExOdmMg) exampl starter map for github deployment
+[Starter Map for Github Deployment](https://codepen.io/benmatheson/pen/ExOdmMg) example starter map for github deployment
+
+[iframe example codepen](https://codepen.io/benmatheson/pen/poQQxJL) example of iframe map
 
 [Starter Map for Mouse Events](https://codepen.io/benmatheson/pen/zYMeONm) starter map for mouse events. Use this to build events.
 
@@ -52,7 +54,7 @@
 
 ## Tools 
 
-[Geojson.io](https://geojson.io/) Tool for viewing, editing geojson.
+[Geojson.io](https://geojson.io/) Tool for viewing, editing, exporting geojson.
 
 [Mapshaper](https://mapshaper.org/) Tool for simplifying geojson
 
