@@ -37,6 +37,9 @@
 
 [iframe example codepen](https://codepen.io/benmatheson/pen/poQQxJL) example of iframe map
 
+[Starter Map for Mouse Events](https://codepen.io/benmatheson/pen/LYXqpML) starter map for custon geojson data. 
+
+
 [Starter Map for Mouse Events](https://codepen.io/benmatheson/pen/zYMeONm) starter map for mouse events. Use this to build events.
 
 [Add Geojson to map](https://docs.mapbox.com/mapbox-gl-js/example/geojson-polygon/) add geojson to map as data source.
